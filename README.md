@@ -4,14 +4,11 @@ It explores how **Age**, **Investment Duration**, and **Expectation** are relate
 
 By combining statistical insights and visualizations, the project highlights patterns that can guide smarter financial decisions.
 
----
-
 ## 🎯 Objectives
 - Analyze correlations between **Age**, **Duration**, and **Expectation**  
 - Compare **investment patterns by gender**  
 - Visualize results using clear, professional charts  
 
----
 
 ## 🛠 Tools & Libraries Used
 - 🐍 **Python 3**
@@ -19,7 +16,6 @@ By combining statistical insights and visualizations, the project highlights pat
 - 📈 **Matplotlib** & **Seaborn** – data visualization  
 - 💻 **Jupyter Notebook / Google Colab**
 
----
 
 ## 📊 Visual Outputs
 
